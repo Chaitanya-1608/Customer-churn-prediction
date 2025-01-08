@@ -49,5 +49,5 @@ The dataset contains 19 features comprising both categorical and continuous vari
 ### 1.5 Techniques
 
 - **Exploratory data analysis**
-- **Classification**
+- **Regression and Classification**
 - **Prescriptive Analysis**
