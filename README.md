@@ -12,7 +12,7 @@ The objective of this project is to develop a customer churn prediction model fo
 
 ### 1.3 Data
 
-Data is taken from Kaggle.
+Data is taken from Kaggle. [Source](https://www.kaggle.com/datasets/cp1695/churn-data-set)
 
 The dataset contains 19 features comprising both categorical and continuous variables, with 11,260 observations. Below is a description of the variables:
 
